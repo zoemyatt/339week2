@@ -12,4 +12,7 @@ h1,h2, h3{
 ul li{
    margin-left: 25px;
    list-style-type: upper-roman;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   padding: 5px;
+   display: inline;
 }
