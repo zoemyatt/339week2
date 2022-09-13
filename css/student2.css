@@ -13,3 +13,10 @@ ul li{
    margin-left: 25px;
    list-style-type: upper-roman;
 }
+nav li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+    display: inline-block;
+    height: 20px;
+    border: 1px solid black;
+ }
