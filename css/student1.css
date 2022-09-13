@@ -9,10 +9,40 @@ h1,h2, h3{
    margin-top:15px;
  
 }
+
 ul li{
    margin-left: 25px;
    list-style-type: upper-roman;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    padding: 5px;
-   display: inline;
+   display: inline-block;
+   height: 20px;
+}
+
+nav li{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   padding: 10px;
+   display: inline-block;
+   height: 20px;
+   border: 1px solid black;
+   background-color: lightblue;
+   border-radius: 90em;
+   margin: 10px;
+   text-align: left;
+}
+
+main > img{
+   width: 24%;
+   padding: 10px;
+   margin: 0px;
+   border: 3px dashed darkred;
+   box-sizing:border-box;
+   border-style:double;
+}
+
+p{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color:brown;
+   font-size: medium;
+   line-height: 150%;
 }
