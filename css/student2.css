@@ -23,3 +23,19 @@ nav li{
     background-color: aqua;
     margin: 10px 20px;
  }
+
+li.colleen{
+   background-color: yellow;
+   border: 5px dotted black;
+   border-radius: 20px;
+   margin: 10px;
+   padding: 5px;
+ }
+
+ img{
+    
+    width: 24%;
+    padding: 15px;
+    border: 10px dashed green;
+    margin: none;
+ }
