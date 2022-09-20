@@ -32,11 +32,12 @@ li.jackie{
    padding: 5px;
  }
 
- img{
+ main img{
     
     width: 24%;
+    box-sizing: border-box;
     padding: 15px;
-    border: 10px dashed green;
+    border: 6px dashed green;
     margin: none;
  }
 
