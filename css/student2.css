@@ -47,3 +47,7 @@ div.gallery{
    width: 90%;
    justify-content: center;
  }
+
+.gallery img{
+   width: 250px;
+}
