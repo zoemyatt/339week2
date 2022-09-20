@@ -52,3 +52,7 @@ div.gallery{
 .gallery img{
    width: 100%;
 }
+
+.gallery img:last-child{
+   grid-column: 1/3;
+ }
