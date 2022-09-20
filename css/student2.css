@@ -43,5 +43,7 @@ li.jackie{
 div.gallery{
    display: grid;
    grid-template-columns: 250px 250px 250px;
-   
+   border: 3px solid black;
+   width: 90%;
+   justify-content: center;
  }
